@@ -41,7 +41,7 @@ export default function PlayerView({
   });
 
   return (
-    <div className="fixed top-16 bottom-0 left-0 right-0 flex flex-col">
+    <div className="fixed top-0 bottom-0 left-0 right-0 flex flex-col">
       {/* Main content area - fills available space */}
       <div className="flex-1 flex flex-col overflow-hidden">
         {/* Question card - 35% of remaining space */}
